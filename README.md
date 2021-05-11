@@ -1,4 +1,4 @@
-# FCFS Read QUEUE SIMULATOR
+# FCFS Read Queue Simulator
 
 A new Flutter project.
 
