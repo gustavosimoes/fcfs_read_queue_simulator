@@ -1,4 +1,4 @@
-# trabalho_threads
+# FCFS Read QUEUE SIMULATOR
 
 A new Flutter project.
 
